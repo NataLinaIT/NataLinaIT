@@ -12,7 +12,10 @@
 
 ### GitHub Activity <img src="https://media2.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47eb89140cff7b14ec8ecf3c8ab7b5ff1e8a3f65fc&rid=200.webp" width="90">
 
+
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=NataLinaIT&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataLinaIT&layout=compact&theme=dark)
 
 ### Contact me for collaboration
 
