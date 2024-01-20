@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+### I am a Software Developer
 
-I am a Software Developer
+<br>
 
+## My Technology stack
 
-## My Technology stack: ##
+<br>
+
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D&color=000)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=017ACC&color=000)
@@ -42,5 +45,6 @@ I am a Software Developer
   ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF&color=000)
   ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E&color=000)
 
+<br>
 
 ✉️  You can contact me at [linkedIn](https://www.linkedin.com/in/natalina-webworld/)  
